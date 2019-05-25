@@ -102,6 +102,11 @@ The plots are shown below:
 ### 5. XGB Regressor
 ![XGB Regressor Graph](https://user-images.githubusercontent.com/39993298/58367517-ec6e7b80-7efd-11e9-880d-4f62fddc6807.png)
 
+## Conclusion
+* Extra Trees Regression and XGBoost Regression are best models for calculating feature selection as the score is boosted at very less number of features as compared to other models
+* Lasso Regression does not need feature selection as it takes care of less importance features by itself. Hence Lasso is thw worst model to use for feature selectin tasks
+* Extra Trees Regression out-perfrom every other model used in this analysis acquiring score of *0.9258*.
+
 
 ## Contributing
 
