@@ -1,5 +1,7 @@
-# Feature_Selector
+# Feature Selection for Regression problems
 Extensive Feature reduction and Feature Selection using multiple Techniques
+
+![image](https://user-images.githubusercontent.com/39993298/58367424-b250aa00-7efc-11e9-80d8-be35aeaa222b.png)
 
 Hello Everyone,
 In this project we will be showing various kinds of feature reduction and feature selection techniques for preprocessing of data before feedig it to the machine learning model.
@@ -80,6 +82,9 @@ Technique available to identify features to remove:
 - Collinear Features
 - Zero Importance Features
 - Low Importance Features
+![Importance_graph](https://user-images.githubusercontent.com/39993298/58367472-4b7fc080-7efd-11e9-810c-7654d5d29ea7.png)
+
+
 
 ## Analysis of Model score vs the number of features using the RFE
 
@@ -87,15 +92,16 @@ In this analysis we have used the values for feature importance gained from the 
 The plots are shown below:
 
 ### 1. Linear Regression
-![Linear Regression Graph]()
+![Linear Regression Graph](https://user-images.githubusercontent.com/39993298/58367484-72d68d80-7efd-11e9-8264-e5e30e26e960.png)
 ### 2. Lasso Regression
-![Lasso Regression Graph]()
+![Lasso Regression Graph](https://user-images.githubusercontent.com/39993298/58367490-8d106b80-7efd-11e9-957c-f35b8dcc30d5.png)
 ### 3. Decision Tree Regression
-![Decision Tree Regression Graph]()
+![Decision Tree Regression Graph](https://user-images.githubusercontent.com/39993298/58367497-ae715780-7efd-11e9-8599-e3af1bfe5f8b.png)
 ### 4. Extra Trees Regression
-![ExtraTreesRegressor Graph]()
+![ExtraTreesRegressor Graph](https://user-images.githubusercontent.com/39993298/58367508-cfd24380-7efd-11e9-97b7-145169b2b87c.png)
 ### 5. XGB Regressor
-![XGB Regressor Graph]()
+![XGB Regressor Graph](https://user-images.githubusercontent.com/39993298/58367517-ec6e7b80-7efd-11e9-880d-4f62fddc6807.png)
+
 
 ## Contributing
 
