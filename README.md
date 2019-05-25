@@ -96,3 +96,25 @@ The plots are shown below:
 ![ExtraTreesRegressor Graph]()
 ### 5. XGB Regressor
 ![XGB Regressor Graph]()
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Authors
+
+* **Sushant Gundla** - [Github Profile](https://github.com/Sharpyyy)
+
+<!---
+## License 
+his project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+-->
+
+## Acknowledgments
+
+* [WillKoehrsen](https://github.com/WillKoehrsen) - [feature-selector](https://github.com/WillKoehrsen/feature-selector)
+
+## Resources
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection
+https://www.statsmodels.org/dev/generated/statsmodels.regression.linear_model.OLS.html
+https://github.com/WillKoehrsen/feature-selector
